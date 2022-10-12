@@ -1,8 +1,7 @@
 package com.zhw.git;
 
-public class gitMain {
+public class gitNewMain {
     public static void main(String[] args) {
         System.out.println(1);
-        System.out.println(2);
     }
 }
